@@ -1,0 +1,12 @@
+{
+  "name": "http-server-assignment",
+  "version": "1.0.0",
+  "description": "Simple http server hw",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "test": "echo \"Tests complete\""
+  },
+  "author": "Sneha Vaswani",
+  "license": "UNLICENSED"
+}
